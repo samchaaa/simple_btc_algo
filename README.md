@@ -9,3 +9,5 @@ Default size is 0.001 BTC, so the algo will by default trade just 0.001 per hour
 cbpro is from https://github.com/danpaquin/coinbasepro-python/, with minor modifications.
 
 Algorithm is set up to implement immediately, just input your credentials and run.
+
+*Subscribe to https://samchaaa.substack.com/ for more in depth code, studies, and ready-to-implement algorithms.*
