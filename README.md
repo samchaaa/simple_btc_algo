@@ -1,6 +1,6 @@
-## simple_btc_algo
+# simple_btc_algo
 
-# Summary: Long-only 50/100 period moving average crossover
+## Summary: Long-only 50/100 period moving average crossover
 
 Uses cbpro (from https://github.com/danpaquin/coinbasepro-python/), with minor modifications.
 
