@@ -2,7 +2,7 @@
 
 ## Summary: Long-only 50/100 period moving average crossover
 
-![Image](https://github.com/samchaaa/simple_btc_algo/bt.png)
+![Image](https://raw.githubusercontent.com/samchaaa/simple_btc_algo/main/bt.png)
 
 Uses cbpro (from https://github.com/danpaquin/coinbasepro-python/), with minor modifications.
 
