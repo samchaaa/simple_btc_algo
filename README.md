@@ -10,6 +10,8 @@ Just a simple long-only moving average crossover for BTC-USD on the Coinbase Pro
 
 Default size is 0.001 BTC, so the algo will by default trade just 0.001 per hour, until you are either 100% long or 100% flat.
 
+Intended to be traded unleveraged, currently no risk management.
+
 Algorithm is set up to implement immediately, just input your credentials and run.
 
 **Subscribe to https://samchaaa.substack.com/ for more in depth code, studies, and ready-to-implement algorithms.**
